@@ -1,5 +1,3 @@
-![fran-cesc](assets/images/water-4032975_1280.jpg)
-
 ## Hello World! 👋
 I’m Francesc, an Angular specialized frontend developer and lifelong learner.<br>While I’m just starting out, I’m constantly learning and experimenting with web technologies.<br>I'm excited to grow my skills collaborating in challenging projects, let’s code something amazing together!
 
@@ -14,6 +12,7 @@ I’m Francesc, an Angular specialized frontend developer and lifelong learner.<
 
 
 ### Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=fran-cesc&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
