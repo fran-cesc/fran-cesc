@@ -1,11 +1,7 @@
-!(assets/images/water-4032975_1280.jpg)
+![fran-cesc](assets/images/water-4032975_1280.jpg)
 
 ## Hello World! 👋
 I’m Francesc, an Angular specialized frontend developer and lifelong learner.<br>While I’m just starting out, I’m constantly learning and experimenting with web technologies.<br>I'm excited to grow my skills collaborating in challenging projects, let’s code something amazing together!
-
-
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesc-fe) 
 
