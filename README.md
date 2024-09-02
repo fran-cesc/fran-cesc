@@ -11,10 +11,6 @@ I’m Francesc, an Angular specialized frontend developer and lifelong learner.<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fran-cesc&theme=shadow_blue&hide_border=true)<br/>
 
 
-### Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=fran-cesc&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&hide_border=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=fran-cesc&icon=0&color=12)](https://visitcount.itsvg.in)
 
